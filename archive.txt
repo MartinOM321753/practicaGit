@@ -2,3 +2,8 @@ Martin Ortega Montes 9B
 
 Parrafo #1 desde main
 Parrafo #2 desde main
+
+Parrafo #1 desde user2
+Parrafo #2 desde user2
+Parrafo #3 desde user2
+
